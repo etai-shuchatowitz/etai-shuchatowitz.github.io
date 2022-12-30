@@ -10,4 +10,4 @@ tags:
   - standard
 ---
 
-This is my first entry! Going to try and keep this going.
+You made it to my Blog! Who the hell knows if I actually keep up with this thing. I'm aiming for bi-weekly updates. A way to keep myself accountable for any project ideas I wanna play around with. First on my list: make a video that uses an asset from Polycam.
